@@ -1,0 +1,13 @@
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/bin/Debug/netcoreapp3.1/TemperatureConversionPJ.deps.json
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/bin/Debug/netcoreapp3.1/TemperatureConversionPJ.runtimeconfig.json
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/bin/Debug/netcoreapp3.1/TemperatureConversionPJ.runtimeconfig.dev.json
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/bin/Debug/netcoreapp3.1/TemperatureConversionPJ.dll
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/bin/Debug/netcoreapp3.1/TemperatureConversionPJ.pdb
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.csproj.AssemblyReference.cache
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.AssemblyInfoInputs.cache
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.AssemblyInfo.cs
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.csproj.CoreCompileInputs.cache
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.dll
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.pdb
+/Users/PinChenLin/Desktop/資料/99. DesignPattern程式設計模式課程 /轉接器模式/ObjectAdapter/TemperatureConversionPJ/TemperatureConversionPJ/obj/Debug/netcoreapp3.1/TemperatureConversionPJ.genruntimeconfig.cache

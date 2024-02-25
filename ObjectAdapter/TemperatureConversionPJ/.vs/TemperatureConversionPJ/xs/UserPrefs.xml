@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BE15FE68-0B6D-4A41-BE65-7D15759F60B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemperatureConversionPJ/Program.cs">
+    <Files>
+      <File FileName="TemperatureConversionPJ/Program.cs" Line="51" Column="8" />
+      <File FileName="TemperatureConversionPJ/ICelsiusTemperature.cs" Line="8" Column="39" />
+      <File FileName="TemperatureConversionPJ/FahrenheitTemperature(.cs" Line="16" Column="32" />
+      <File FileName="TemperatureConversionPJ/FahrenheitToCelsiusAdapter.cs" Line="27" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemperatureConversionPJ" expanded="True">
+            <Node name="TemperatureConversionPJ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TemperatureConversionPJ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
